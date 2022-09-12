@@ -4,9 +4,10 @@
 Replit Aio with Account Generator and more!
 
 
+
 ## Screenshots
 
-[Here](https://github.com/ahmednore/-ReplitAio/blob/main/aio.png)
+![App Screenshot](https://raw.githubusercontent.com/ahmednore/-ReplitAio/main/aio.png)
 
 
 ##  ・how To Use
