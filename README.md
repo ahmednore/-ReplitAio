@@ -6,7 +6,7 @@ Replit Aio with Account Generator and more!
 
 ## Screenshots
 
-[App Screenshot](https://github.com/Hazza3100/ReplitAio/blob/main/aio.png)
+[Here](https://github.com/Hazza3100/ReplitAio/blob/main/aio.png)
 
 
 ##  ・how To Use
